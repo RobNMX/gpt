@@ -1,2 +1,2 @@
-# debug
-debugging with claude
+# gpt
+
